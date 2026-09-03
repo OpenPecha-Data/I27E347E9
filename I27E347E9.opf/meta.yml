@@ -1,0 +1,21 @@
+id: I27E347E9
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-26
+  title: ''
+  author: ''
+  authors: &id001 []
+  sku: RDI-KK-26
+  cover: RDI-KK-26.jpeg
+  volume: {}
+ebook_metadata:
+  title: ''
+  authors: *id001
+  sku: RDI-KK-26
+  cover: RDI-KK-26.jpeg
+layers:
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
